@@ -1,7 +1,8 @@
 # Proyecto: Controlador de Temperatura
 
 Trabajo práctico para la materia Laboratorio de Microcontroladores.
-Integrantes: Higa, Lucas (98262) Hsieh, Pablo (97363)
+
+Integrantes: Higa, Lucas --- Hsieh, Pablo 
 
 El proyecto a realizar es un controlador PI de temperatura utilizando el microcontrolador ATMEGA328p. La motivación es tal de poder aplicar conceptos de la materia Control Automático I, la cuál está siendo cursada en paralelo a Laboratorio de microprocesadores.
 
